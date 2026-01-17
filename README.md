@@ -11,4 +11,17 @@ its reasoning process before acting, we demonstrate that standard models can
 achieve high reliability on complex benchmarks like τ 2-bench without the latency
 of heavy reasoning models.
 
-![alt text]()
+**Results**
+
+![alt text](https://github.com/Rajitb002/Improving-Agent-Success-Rates-using-Prompt-Engineering/blob/main/success.png)
+
+(a) Success Rate Comparison
+
+![alt text](https://github.com/Rajitb002/Improving-Agent-Success-Rates-using-Prompt-Engineering/blob/main/cost.png)
+
+(b) Cost Efficiency Frontier
+
+![alt text](https://github.com/Rajitb002/Improving-Agent-Success-Rates-using-Prompt-Engineering/blob/main/heatmap.png)
+
+(c) Task-Level Success Matrix (0 = Fail, 1 = Pass)
+
